@@ -1,0 +1,22 @@
+﻿  MyForm.cpp
+D:\Mufix\gui1\gui1\MyForm5.h(185,20): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Mufix\gui1\gui1\MyForm6.h(200,20): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Mufix\gui1\gui1\MyForm.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\Mufix\gui1\gui1\MyForm.cpp(10,15): warning C4551: function call missing argument list
+  MyForm6.cpp
+D:\Mufix\gui1\gui1\MyForm6.h(200,20): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  gui1.vcxproj -> D:\Mufix\gui1\Debug\gui1.exe

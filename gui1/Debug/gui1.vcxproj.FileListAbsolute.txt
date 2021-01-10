@@ -1,0 +1,9 @@
+D:\Mufix\gui1\gui1\Debug\gui1.vcxprojAssemblyReference.cache
+D:\Mufix\gui1\gui1\Debug\gui1.MyForm.resources
+D:\Mufix\gui1\gui1\Debug\gui1.vcxproj.GenerateResource.cache
+D:\Mufix\gui1\gui1\Debug\gui1.MyForm1.resources
+D:\Mufix\gui1\gui1\Debug\gui1.MyForm2.resources
+D:\Mufix\gui1\gui1\Debug\gui1.MyForm3.resources
+D:\Mufix\gui1\gui1\Debug\gui1.MyForm4.resources
+D:\Mufix\gui1\gui1\Debug\gui1.MyForm5.resources
+D:\Mufix\gui1\gui1\Debug\gui1.MyForm6.resources
